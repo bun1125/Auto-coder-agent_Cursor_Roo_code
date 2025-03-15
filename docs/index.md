@@ -25,4 +25,5 @@
 ## 貢献ガイド
 - [コントリビューション](contributing.md) - 貢献方法
 - [コーディング規約](coding-standards.md) - コード規約
-- [レビュープロセス](review-process.md) - コードレビューのプロセス  
+- [レビュープロセス](review-process.md) - コードレビューのプロセス
+- [プルリクエスト](pull-request.md) - PRの作成と管理   
